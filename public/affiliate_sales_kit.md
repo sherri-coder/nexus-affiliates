@@ -1,6 +1,6 @@
 # Nexus affiliate sales kit
 
-**Nexus Pro affiliate program preview. Enrollment is not open.**
+**Nexus Pro affiliate program preview. Applications are open; referral links are issued after approval.**
 
 ## Brand and positioning
 
@@ -28,7 +28,7 @@ Nexus Pro beta enrollment is limited to the first 25 approved trial accounts or 
 
 ## Proposed program terms — version 2026-10-10
 
-**Pricing structure approved by owner; operational launch pending. Enrollment is not open.** Nexus Pro offer: 14 days free, then $30/month for the first three paid monthly billing periods, then $49/month from the fourth paid monthly billing period, excluding applicable taxes; cancel before the next charge to avoid that charge. Prices are USD, excluding applicable taxes. Checkout must state the trial end date, first three $30 billing periods, date of the first $49 charge, cancellation method, and any separately required services before activation. No commission is earned on free trials.
+**Pricing structure approved by owner; operational launch pending. Applications are open; referral links and payouts begin after launch.** Nexus Pro offer: 14 days free, then $30/month for the first three paid monthly billing periods, then $49/month from the fourth paid monthly billing period, excluding applicable taxes; cancel before the next charge to avoid that charge. Prices are USD, excluding applicable taxes. Checkout must state the trial end date, first three $30 billing periods, date of the first $49 charge, cancellation method, and any separately required services before activation. No commission is earned on free trials.
 
 - **Beta enrollment:** Up to 25 approved new customer accounts, or 30 consecutive calendar days after enrollment opens, whichever comes first. Publish the opening timestamp and exact closing date/time in America/New_York before launch; no dates are set by this draft. Reserve one of the 25 spots at approved trial activation, not first payment. Trials activated before the cutoff keep the offer even if their first payment occurs after enrollment closes. For this initial cohort, cancelled or nonconverting trial spots are not recycled. No countdown resets or unverified remaining-slot claims. After the cutoff, new customers receive the 14-day trial followed by $49/month, excluding applicable taxes.
 - **Customer transition:** The $30 rate applies only to the first three paid monthly billing periods of the original continuous subscription, not three calendar months from signup. Failed-payment retries do not advance the billing-period count; refunds do not restart it. The fourth period bills at $49/month, as disclosed and accepted at signup. Send a reminder at least seven days before that charge with the amount, billing date and cancellation route. Cancellation ends beta eligibility; rejoining uses the then-current public offer.
